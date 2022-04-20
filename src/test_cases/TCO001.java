@@ -11,13 +11,6 @@ public class TCO001 {
         // positive testing
 
 
-        // adding this to smoke test
-
-        //useful information
-       // positive test
-      // not going into smoke test
-
-        // more useful information
 
     }
 }
